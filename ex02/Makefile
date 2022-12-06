@@ -1,10 +1,10 @@
-NAME		= iter
+NAME		= array
 
 SRC_DIR		= ./
 OBJ_DIR		= obj
 INC_DIR		= inc
 
-SRC_FILES	= main.cpp
+SRC_FILES	= main.cpp array.tpp
 
 GCC 		= c++
 CFLAGS		= -Wall -Wextra -Werror
